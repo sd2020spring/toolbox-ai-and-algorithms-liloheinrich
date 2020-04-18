@@ -175,7 +175,7 @@ class Cell():
 
     def draw(self):
         # COST_TO_DRAW = ''
-        # COST_TO_DRAW = self.g_cost
+        COST_TO_DRAW = self.g_cost
         # COST_TO_DRAW = self.h_cost
         # COST_TO_DRAW = self.f_cost
         line_width = 2
