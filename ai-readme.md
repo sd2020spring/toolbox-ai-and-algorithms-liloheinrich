@@ -1,6 +1,6 @@
 To use this astar GUI/toy, hit the 'l' key to switch to the 'add lava tiles' mode. Then you can click on any cell to add or remove a lava tile from that cell. Hit the spacebar at any time to have Paul plan (or replan) his path, and highlight that path. To see the f,g, and h values that astar calculates, take a look at the instructions in question 1. Feel free to reach out at any time about problems.
 
-0. Read up on astar [here](http://web.mit.edu/eranki/www/tutorials/search/) and [here](http://www.raywenderlich.com/4946/introduction-to-a-pathfinding). Do your best to understand what the pseudocode in the links mean. What are the advantages that A star has over breadth-first search? What advantages does A star have over depth-first search? 
+0. Read up on astar [here](http://web.mit.edu/eranki/www/tutorials/search/) and [here](http://www.raywenderlich.com/4946/introduction-to-a-pathfinding). Do your best to understand what the pseudocode in the links mean. What are the advantages that A star has over breadth-first search? What advantages does A star have over depth-first search?
 
 1. Take a look at lines 124-127 of the code. Try commenting and uncommenting lines and running python astar.py to see what values are printed in each cell. Take a screenshot of each example with some lava tiles placed down, and in your own words, explain what f_score, g_score, and h_score are, and why you see those specific values in the screenshot. 
 
