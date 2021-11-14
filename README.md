@@ -1,4 +1,4 @@
-# ToolBox-AI
+# Software Design AI Toolbox
 
 Al and Algorithms Project Toolbox starter code  
 Instructions on [toolbox page](https://sd2020spring.github.io/toolboxes/algorithms-and-ai)  
