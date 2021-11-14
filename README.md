@@ -1,6 +1,6 @@
-# Software Design AI Toolbox
+# AI Toolbox
 
-Al and Algorithms Project Toolbox starter code  
+Software Design Al and Algorithms Toolbox starter code  
 Instructions on [toolbox page](https://sd2020spring.github.io/toolboxes/algorithms-and-ai)  
 
 - To get pygame `pip install pygame`
